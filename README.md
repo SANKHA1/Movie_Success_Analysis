@@ -1,4 +1,4 @@
-## Movalytics
+## Movie_Success_Analysis
 ---
 ![Movalytics](documentation/README_images/logo.PNG)  
 
